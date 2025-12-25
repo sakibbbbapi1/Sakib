@@ -1,5 +1,5 @@
 // netlify/functions/send-emote.js
-// ⚡ ENHANCED VERSION - SUPER FAST API PROXY
+//⚡ ENHANCED VERSION - SUPER FAST API PROXY
 
 exports.handler = async (event, context) => {
   const startTime = Date.now();
